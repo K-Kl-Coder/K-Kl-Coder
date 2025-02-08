@@ -40,3 +40,9 @@ const K.Kl = {
   - - [x] Algorithms
   - - [x] Memory
   - - [ ] Data Structures
+
+> ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF1YnR1eWd5YnlrcWZ2aThibXNtcjhtYjJ6ZTdtZmR6eGFoeXF2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif" width="30"> <ins> AIMS! </ins> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamF1YnR1eWd5YnlrcWZ2aThibXNtcjhtYjJ6ZTdtZmR6eGFoeXF2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G3xHGIDU9LONNZQJid/giphy.gif" width="30">
+
+- An About-Me Website
+- A Portfolio Website
+- A Discord Bot

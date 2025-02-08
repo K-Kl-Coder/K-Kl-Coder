@@ -18,31 +18,25 @@ const K.Kl = {
 };
 ```
 
-> ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlobmFrZWgzbnZzbmh1cDA4OXNramFxNXMwbXJvNHd5dnFsY24zbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duX0jtSZeJXm3zCi7E/giphy.gif" width="30"> <ins> My Journey! </ins> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlobmFrZWgzbnZzbmh1cDA4OXNramFxNXMwbXJvNHd5dnFsY24zbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duX0jtSZeJXm3zCi7E/giphy.gif" width="30">
+> ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlobmFrZWgzbnZzbmh1cDA4OXNramFxNXMwbXJvNHd5dnFsY24zbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duX0jtSZeJXm3zCi7E/giphy.gif" width="30"> <ins> My Progress! </ins> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlobmFrZWgzbnZzbmh1cDA4OXNramFxNXMwbXJvNHd5dnFsY24zbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duX0jtSZeJXm3zCi7E/giphy.gif" width="30">
 
 - #### JavaScript
-  - - [ ] String - Methods & Properties
-  - - [ ] Numbers - Methods & Properties
-  - - [ ] Conditionals
-  - - [ ] Loops
-  - - [ ] Functions
-  - - [ ] Scopes
-  - - [ ] Arrays, Objects & Classes
-  - - [ ] JSon
+  - - [x] Variables - Methods & Properties
+  - - [x] Conditionals & Loops
+  - - [x] Functions & Scopes
+  - - [x] Arrays, Objects & Classes
+  - - [ ] JSON
   - - [ ] Error Handling
   - - [ ] Document Object Model
-  - - [ ] 1
-  - - [ ] 1
-  - - [ ] 1
-  - - [ ] 1
+  - - [ ] Event Listener
+  - - [ ] LocalStorage & Session Storage API
+  - - [ ] Modules
+  - - [ ] Callbacks, Promises Async Await
+  - - [ ] Regex
 
 - #### C
-  - - [ ] 1
-  - - [ ] 2
-  - - [ ] 3
-  - - [ ] 4
-  - - [ ] 5
-  - - [ ] 6
-  - - [ ] 7
-  - - [ ] 8
-  - - [ ] 9
+  - - [x] Basics
+  - - [x] Arrays
+  - - [x] Algorithms
+  - - [x] Memory
+  - - [ ] Data Structures

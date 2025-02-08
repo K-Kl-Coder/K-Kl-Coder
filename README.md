@@ -21,15 +21,21 @@ const K.Kl = {
 > ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlobmFrZWgzbnZzbmh1cDA4OXNramFxNXMwbXJvNHd5dnFsY24zbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duX0jtSZeJXm3zCi7E/giphy.gif" width="30"> <ins> My Journey! </ins> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlobmFrZWgzbnZzbmh1cDA4OXNramFxNXMwbXJvNHd5dnFsY24zbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/duX0jtSZeJXm3zCi7E/giphy.gif" width="30">
 
 - #### JavaScript
+  - - [ ] String - Methods & Properties
+  - - [ ] Numbers - Methods & Properties
+  - - [ ] Conditionals
+  - - [ ] Loops
+  - - [ ] Functions
+  - - [ ] Scopes
+  - - [ ] Arrays, Objects & Classes
+  - - [ ] JSon
+  - - [ ] Error Handling
+  - - [ ] Document Object Model
   - - [ ] 1
-  - - [ ] 2
-  - - [ ] 3
-  - - [ ] 4
-  - - [ ] 5
-  - - [ ] 6
-  - - [ ] 7
-  - - [ ] 8
-  - - [ ] 9
+  - - [ ] 1
+  - - [ ] 1
+  - - [ ] 1
+
 - #### C
   - - [ ] 1
   - - [ ] 2
